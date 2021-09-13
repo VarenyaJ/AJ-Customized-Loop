@@ -1,5 +1,7 @@
 # Loop for iOS
 
+# ***This is a fork that contains customizations for that worked for my brother's Omnipod PDM and Dexcom G5 CGM system
+
 ![App Icon](/Loop/DefaultAssets.xcassets/AppIcon.appiconset/Icon-Small-40%402x.png?raw=true)
 
 [![Build Status](https://travis-ci.org/LoopKit/Loop.svg?branch=master)](https://travis-ci.org/LoopKit/Loop)
